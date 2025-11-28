@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "home": "Ahabanza",
+    "agencies": "Ibigo",
+    "about": "Abo turi",
+    "dashboard": "Ikibaho",
+    "login": "Kwinjira",
+    "logout": "Gusohoka"
+  },
+  "home": {
+    "heroTitle": "Urugendo Rwawe Rutangira",
+    "heroTitleHighlight": "Hamwe Natwe",
+    "heroDesc": "Gura amatike ya bisi kuva mubigo byinshi, kurikirana urugendo rwawe mugihe nyacyo, kandi ugenda ufite ikizere.",
+    "bookNow": "Gutumiza Ubu",
+    "learnMore": "Menya Byinshi",
+    "whyChoose": "Kubera Iki Wotuhitamo?",
+    "whyChooseDesc": "Ubunararibonye urugendo rutagira ibibazo hamwe nurubuga rwacu rwuzuye rwo gutumiza",
+    "multipleAgencies": "Ibigo Byinshi",
+    "multipleAgenciesDesc": "Ugereranya kandi uhitemo mubakoresha ba bisi byizewe bitandukanye",
+    "securePayments": "Kwishyura Kwizewe",
+    "securePaymentsDesc": "Wishyure neza ukoresheje amafaranga ya mobile cyangwa amakarita yinguzanyo",
+    "realTimeTracking": "Gukurikirana mugihe nyacyo",
+    "realTimeTrackingDesc": "Kurikirana aho bisi yawe iri mugihe nyacyo kuri karita",
+    "easyBooking": "Gutumiza Byoroshye",
+    "easyBookingDesc": "Gura amatike yawe mu ngingo nke gusa",
+    "popularAgencies": "Ibigo Bikomeye",
+    "popularAgenciesDesc": "Genda hamwe nabakoresha ba bisi byizewe cyane",
+    "viewAllAgencies": "Reba Ibigo Byose",
+    "howItWorks": "Bigenda Bite",
+    "howItWorksDesc": "Gura itike rya bisi yawe mubyiciro 4 byoroshye",
+    "step1Title": "Hitamo Ikigo",
+    "step1Desc": "Shakisha kandi uhitemo umukoresha wa bisi ukunda",
+    "step2Title": "Hitamo Igihe",
+    "step2Desc": "Hitamo itariki, igihe, nintebe ziboneka",
+    "step3Title": "Kora Kwishyura",
+    "step3Desc": "Wishyure neza ukoresheje uburyo ukunda",
+    "step4Title": "Kurikirana & Kugenda",
+    "step4Desc": "Kurikirana bisi yawe kandi wishimire urugendo",
+    "ctaTitle": "Witeguye Gutangira Urugendo Rwawe?",
+    "ctaDesc": "Injira mubantu bihumbi bahongerewe bemereje gutumiza amatike ya bisi yawe",
+    "ctaButton": "Gura Itike Rya We Ubu"
+  },
+  "hero": {
+    "title": "Gura Itike Rya Bisi Kuri Interineti",
+    "subtitle": "Urugendo Rutejwe Ubwoba, Ruturutse kandi Rufite Igiciro Cyiza",
+    "description": "Shakisha kandi ugure amatike ya bisi mu gihugu hose byoroshye. Ugereranya ibihe, ibiciro, n'ibyiza by'ibigo bya bisi byizewe.",
+    "searchOrigin": "Uhereye",
+    "searchDestination": "Ugana",
+    "searchDate": "Itariki y'urugendo",
+    "searchButton": "Shakisha Bisi"
+  },
+  "features": {
+    "title": "Kubera Iki Wotuhitamo",
+    "safeTravel": "Urugendo Rutejwe Ubwoba",
+    "safeTravelDesc": "Genda hamwe n'ibigo bya bisi byemewe kandi byizewe",
+    "bestPrices": "Ibiciro Byiza",
+    "bestPricesDesc": "Ugereranya ibiciro kandi ubone amasezerano meza",
+    "easyBooking": "Gutumiza Byoroshye",
+    "easyBookingDesc": "Gura amatike yawe mu ngingo nke gusa",
+    "support": "Ubufasha 24/7",
+    "supportDesc": "Turi hano kugirango tugufashe igihe cyose"
+  },
+  "agencies": {
+    "title": "Ibigo Bikomeye",
+    "viewAll": "Reba Ibigo Byose",
+    "rating": "Amanota",
+    "trips": "ingendo"
+  },
+  "footer": {
+    "description": "Umufatanyabikorwa wawe wizewe ku rugendo rw'ibisi rworoshye kandi rufite igiciro cyiza mu gihugu hose.",
+    "quickLinks": "Ihuza Ryihuse",
+    "support": "Ubufasha",
+    "contact": "Twandikire",
+    "helpCenter": "Ikigo cy'Ubufasha",
+    "terms": "Amabwiriza y'Ubufatanye",
+    "privacy": "Politiki y'Ubuzima Bwite",
+    "rights": "Uburenganzira bwose burarinzwe"
+  },
+  "common": {
+    "loading": "Birimo gupakira...",
+    "error": "Ikosa",
+    "success": "Byagenze neza",
+    "cancel": "Kureka",
+    "save": "Kubika",
+    "edit": "Guhindura",
+    "delete": "Gusiba",
+    "view": "Kureba",
+    "search": "Gushakisha",
+    "filter": "Kunyuza",
+    "sort": "Gutondeka"
+  }
+}

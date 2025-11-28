@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "agencies": "Agences",
+    "about": "À propos",
+    "dashboard": "Tableau de bord",
+    "login": "Connexion",
+    "logout": "Déconnexion"
+  },
+  "home": {
+    "heroTitle": "Votre voyage commence",
+    "heroTitleHighlight": "Avec nous",
+    "heroDesc": "Réservez des billets de bus auprès de plusieurs agences, suivez votre trajet en temps réel et voyagez en toute confiance.",
+    "bookNow": "Réserver maintenant",
+    "learnMore": "En savoir plus",
+    "whyChoose": "Pourquoi nous choisir?",
+    "whyChooseDesc": "Profitez d'un voyage sans tracas avec notre plateforme de réservation complète",
+    "multipleAgencies": "Plusieurs agences",
+    "multipleAgenciesDesc": "Comparez et choisissez parmi divers opérateurs de bus de confiance",
+    "securePayments": "Paiements sécurisés",
+    "securePaymentsDesc": "Payez en toute sécurité avec mobile money ou carte de crédit",
+    "realTimeTracking": "Suivi en temps réel",
+    "realTimeTrackingDesc": "Suivez la localisation de votre bus en direct sur la carte",
+    "easyBooking": "Réservation facile",
+    "easyBookingDesc": "Réservez vos billets en quelques clics",
+    "popularAgencies": "Agences populaires",
+    "popularAgenciesDesc": "Voyagez avec les opérateurs de bus les plus fiables",
+    "viewAllAgencies": "Voir toutes les agences",
+    "howItWorks": "Comment ça marche",
+    "howItWorksDesc": "Réservez votre billet de bus en 4 étapes simples",
+    "step1Title": "Choisir l'agence",
+    "step1Desc": "Parcourez et sélectionnez votre opérateur de bus préféré",
+    "step2Title": "Choisir l'horaire",
+    "step2Desc": "Choisissez la date, l'heure et les sièges disponibles",
+    "step3Title": "Effectuer le paiement",
+    "step3Desc": "Payez en toute sécurité avec votre méthode préférée",
+    "step4Title": "Suivre et voyager",
+    "step4Desc": "Suivez votre bus et profitez du voyage",
+    "ctaTitle": "Prêt à commencer votre voyage?",
+    "ctaDesc": "Rejoignez des milliers de voyageurs satisfaits qui nous font confiance pour leurs réservations de billets de bus",
+    "ctaButton": "Réservez votre billet maintenant"
+  },
+  "hero": {
+    "title": "Réservez votre billet de bus en ligne",
+    "subtitle": "Voyage sûr, confortable et abordable",
+    "description": "Trouvez et réservez des billets de bus à travers le pays en toute simplicité. Comparez les horaires, les prix et les commodités des agences de bus de confiance.",
+    "searchOrigin": "De",
+    "searchDestination": "À",
+    "searchDate": "Date de voyage",
+    "searchButton": "Rechercher des bus"
+  },
+  "features": {
+    "title": "Pourquoi nous choisir",
+    "safeTravel": "Voyage sûr",
+    "safeTravelDesc": "Voyagez avec des agences de bus certifiées et de confiance",
+    "bestPrices": "Meilleurs prix",
+    "bestPricesDesc": "Comparez les prix et obtenez les meilleures offres",
+    "easyBooking": "Réservation facile",
+    "easyBookingDesc": "Réservez vos billets en quelques clics",
+    "support": "Support 24/7",
+    "supportDesc": "Nous sommes là pour vous aider à tout moment"
+  },
+  "agencies": {
+    "title": "Agences en vedette",
+    "viewAll": "Voir toutes les agences",
+    "rating": "Note",
+    "trips": "trajets"
+  },
+  "footer": {
+    "description": "Votre partenaire de confiance pour des voyages en bus pratiques et abordables à travers le pays.",
+    "quickLinks": "Liens rapides",
+    "support": "Assistance",
+    "contact": "Contact",
+    "helpCenter": "Centre d'aide",
+    "terms": "Conditions d'utilisation",
+    "privacy": "Politique de confidentialité",
+    "rights": "Tous droits réservés"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "view": "Voir",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "sort": "Trier"
+  }
+}

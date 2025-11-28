@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "home": "Home",
+    "agencies": "Agencies",
+    "about": "About",
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "home": {
+    "heroTitle": "Your Journey Starts",
+    "heroTitleHighlight": "With Us",
+    "heroDesc": "Book bus tickets from multiple agencies, track your ride in real-time, and travel with confidence.",
+    "bookNow": "Book Now",
+    "learnMore": "Learn More",
+    "whyChoose": "Why Choose Us?",
+    "whyChooseDesc": "Experience hassle-free travel with our comprehensive booking platform",
+    "multipleAgencies": "Multiple Agencies",
+    "multipleAgenciesDesc": "Compare and choose from various trusted bus operators",
+    "securePayments": "Secure Payments",
+    "securePaymentsDesc": "Pay safely with mobile money or credit cards",
+    "realTimeTracking": "Real-time Tracking",
+    "realTimeTrackingDesc": "Track your bus location live on the map",
+    "easyBooking": "Easy Booking",
+    "easyBookingDesc": "Book your tickets in just a few clicks",
+    "popularAgencies": "Popular Agencies",
+    "popularAgenciesDesc": "Travel with the most trusted bus operators",
+    "viewAllAgencies": "View All Agencies",
+    "howItWorks": "How It Works",
+    "howItWorksDesc": "Book your bus ticket in 4 simple steps",
+    "step1Title": "Choose Agency",
+    "step1Desc": "Browse and select your preferred bus operator",
+    "step2Title": "Pick Schedule",
+    "step2Desc": "Choose date, time, and available seats",
+    "step3Title": "Make Payment",
+    "step3Desc": "Pay securely with your preferred method",
+    "step4Title": "Track & Travel",
+    "step4Desc": "Track your bus and enjoy the ride",
+    "ctaTitle": "Ready to Start Your Journey?",
+    "ctaDesc": "Join thousands of satisfied travelers who trust us for their bus ticket bookings",
+    "ctaButton": "Book Your Ticket Now"
+  },
+  "hero": {
+    "title": "Book Your Bus Ticket Online",
+    "subtitle": "Safe, Comfortable, and Affordable Travel",
+    "description": "Find and book bus tickets across the country with ease. Compare schedules, prices, and amenities from trusted bus agencies.",
+    "searchOrigin": "From",
+    "searchDestination": "To",
+    "searchDate": "Travel Date",
+    "searchButton": "Search Buses"
+  },
+  "features": {
+    "title": "Why Choose Us",
+    "safeTravel": "Safe Travel",
+    "safeTravelDesc": "Travel with certified and trusted bus agencies",
+    "bestPrices": "Best Prices",
+    "bestPricesDesc": "Compare prices and get the best deals",
+    "easyBooking": "Easy Booking",
+    "easyBookingDesc": "Book your tickets in just a few clicks",
+    "support": "24/7 Support",
+    "supportDesc": "We're here to help you anytime"
+  },
+  "agencies": {
+    "title": "Featured Agencies",
+    "viewAll": "View All Agencies",
+    "rating": "Rating",
+    "trips": "trips"
+  },
+  "footer": {
+    "description": "Your trusted partner for convenient and affordable bus travel across the country.",
+    "quickLinks": "Quick Links",
+    "support": "Support",
+    "contact": "Contact",
+    "helpCenter": "Help Center",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "rights": "All rights reserved"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort"
+  }
+}
